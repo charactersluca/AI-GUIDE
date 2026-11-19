@@ -1,3 +1,4 @@
 # AI-GUIDE
 介绍ChatGPT\Claude\Meta Muse 等AI ？们它能做什么？又有哪些值得尝试的实际应用场景？从功能介绍、业务应用和使用注意事项三个方面进行介绍。
 - [2026 Grok 注册教程](grok-registration-guide-cn.md)
+- [GPT-6.2 Astra和GPT-6.2 Sol有什么区别？功能升级、性能对比与使用指南](https://github.com/charactersluca/AI-GUIDE/blob/main/GPT-6.2%20Astra%E5%92%8CGPT-6.2%C2%A0Sol%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%EF%BC%9F%E5%8A%9F%E8%83%BD%E5%8D%87%E7%BA%A7%E3%80%81%E6%80%A7%E8%83%BD%E5%AF%B9%E6%AF%94%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)
