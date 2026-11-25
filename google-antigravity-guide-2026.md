@@ -1,3 +1,4 @@
+# 2026年Google Antigravity注册、安装使用与防封号全指南
 <!-- wp:paragraph -->
 <p>AI 编程工具正在从补全代码，走向执行完整的开发任务。开发者可以把需求交给 AI Agent，让它阅读项目、修改文件、运行测试，再打开浏览器检查页面。Google Antigravity 近期在开发者圈受到了广泛关注，正是因为它把这些操作放进了同一个工作流程。</p>
 <!-- /wp:paragraph -->
