@@ -5,3 +5,4 @@
 - [2026 年 Gemini AI Pro 优惠领取教程：Pixel 验证与学生认证](google-ai-pro-free-2026.md)
 - [AI Agent浏览器自动化频繁触发人机验证？原因分析与解决方法](https://github.com/charactersluca/AI-GUIDE/blob/main/AI%20Agent%E6%B5%8F%E8%A7%88%E5%99%A8%E8%87%AA%E5%8A%A8%E5%8C%96%E9%A2%91%E7%B9%81%E8%A7%A6%E5%8F%91%E4%BA%BA%E6%9C%BA%E9%AA%8C%E8%AF%81%EF%BC%9F%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90%E4%B8%8E%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95.md)
 - [2026年Google Antigravity注册、安装使用与防封号全指南](https://github.com/charactersluca/AI-GUIDE/blob/main/google-antigravity-guide-2026.md)
+- [2026年Google AI Studio使用教程：注册登录、模型选择与 API获取](google-ai-studio-guide.md)
